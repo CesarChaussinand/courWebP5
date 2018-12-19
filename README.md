@@ -1,2 +1,2 @@
 # courWebP5
-Exercice
+Exercice de découverte de P5.
